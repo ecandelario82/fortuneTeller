@@ -29,7 +29,7 @@ setTimeout(function () {
             userQuestion = prompt(` Hello ${name1}. What is your question?`);
             answer = userQuestion;
         } if (answer) {
-            continueon = alert(`${name1} you asked: "${userQuestion}?" Please wait while I establish contact with the spirits...`);
+            continueon = alert(`${name1}, you asked: "${userQuestion}?" Please wait while I establish contact with the spirits...`);
         }
     }
     
